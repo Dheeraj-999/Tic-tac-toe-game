@@ -1,4 +1,3 @@
-# PRODIGY_WD_03
 # 🎮 Tic-Tac-Toe Web Application
 
 An interactive, responsive, and beautifully designed **Tic-Tac-Toe game** built using **HTML**, **CSS**, and **JavaScript**.
